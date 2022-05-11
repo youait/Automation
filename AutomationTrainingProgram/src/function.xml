@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Adhoc">
+<test name="Regression">
+<classes>
+<class name="piit.AutomationTrainingProgram.Browsersd"></class>
+<class name="piit.AutomationTrainingProgram.Signout"></class>
+<class name="piit.AutomationTrainingProgram.Execution"></class>
+</classes>
+</test>
+</suite>
